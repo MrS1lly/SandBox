@@ -40,6 +40,7 @@ int main(int argc, const char * argv[]) {
     contactList.push_back(std::move(ben));
     contactList.push_back(std::move(frank));
     
+    // TEST
     
     
     // Print out the names of the contacts
